@@ -10,6 +10,7 @@ COPY package.json /app/
 RUN npm i
 
 COPY src /app/src
+COPY config /app/config
 
 # CMD ["bw","serve","--port 8087","--hostname localhost"]
 

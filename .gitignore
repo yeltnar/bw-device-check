@@ -8,3 +8,5 @@ config/email
 config/nebula_id
 config/password
 config/server
+config/last_check.json
+config/passwordfile
