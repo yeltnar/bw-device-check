@@ -1,0 +1,10 @@
+email
+password
+server
+log.txt
+node_modules
+config/local.json
+config/email
+config/nebula_id
+config/password
+config/server
